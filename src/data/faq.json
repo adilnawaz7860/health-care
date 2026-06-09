@@ -1,0 +1,30 @@
+[
+  {
+    "id": "faq1",
+    "question": "How do I schedule an outpatient appointment at AuraCare?",
+    "question_hi": "मैं आभाकेयर में आउटपेशेंट अपॉइंटमेंट कैसे निर्धारित करूं?",
+    "answer": "You can schedule an appointment by clicking 'Book Appointment' on our primary navbar, selecting your specialist doctor of preference, and filling in the quick form. You can also call us directly at +1 (800) 555-0199.",
+    "answer_hi": "आप हमारे मुख्य नेविगेशन बार पर 'अपॉइंटमेंट बुक करें' पर क्लिक करके, अपनी पसंद के विशेषज्ञ डॉक्टर का चयन करके और त्वरित फ़ॉर्म भरकर अपॉइंटमेंट शेड्यूल कर सकते हैं। आप हमें सीधे +1 (800) 555-0199 पर कॉल भी कर सकते हैं।"
+  },
+  {
+    "id": "faq2",
+    "question": "Which health insurance providers are supported at AuraCare?",
+    "question_hi": "आभाकेयर में किन स्वास्थ्य बीमा प्रदाताओं का समर्थन किया जाता है?",
+    "answer": "We support cashless treatment across all major health insurance providers, including Max Bupa, Star Health, ICICI Lombard, HDFC Ergo, and global medical plan providers. Our desk will guide you in filing pre-authorization claims.",
+    "answer_hi": "हम मैक्स बूपा, स्टार हेल्थ, आईसीआईसीआई लोम्बार्ड, एचडीएफसी एर्गो और वैश्विक चिकित्सा योजना प्रदाताओं सहित सभी प्रमुख स्वास्थ्य बीमा प्रदाताओं के कैशलेस उपचार का समर्थन करते हैं। हमारा डेस्क पूर्व-प्राधिकरण दावों को दाखिल करने में आपका मार्गदर्शन करेगा।"
+  },
+  {
+    "id": "faq3",
+    "question": "What is the policy for emergency patient admissions?",
+    "question_hi": "आपातकालीन रोगी प्रवेश के लिए क्या नीति है?",
+    "answer": "Our Emergency Ward is active 24/7. Patients who arrive via our fully functional ambulance fleet are triaged instantly. No upfront payment is required for critical resuscitations or immediate trauma management.",
+    "answer_hi": "हमारा आपातकालीन वार्ड 24 घंटे सक्रिय रहता है। हमारे पूरी तरह से क्रियाशील एम्बुलेंस बेड़े के माध्यम से आने वाले रोगियों की तुरंत छँटाई (ट्राइएज) की जाती है। महत्वपूर्ण पुनर्जीवन या तत्काल आघात प्रबंधन के लिए किसी अग्रिम भुगतान की आवश्यकता नहीं है।"
+  },
+  {
+    "id": "faq4",
+    "question": "Can I obtain a second opinion electronically?",
+    "question_hi": "क्या मैं इलेक्ट्रॉनिक रूप से दूसरी राय (सेकंड ओपिनियन) प्राप्त कर सकता हूँ?",
+    "answer": "Yes. Through our online service consults, patients can upload physical diagnostic reports. Our clinical specialists will review and schedule an video call with you within 24 to 48 hours.",
+    "answer_hi": "हाँ। हमारे ऑनलाइन सेवा परामर्श के माध्यम से, रोगी भौतिक नैदानिक ​​रिपोर्ट अपलोड कर सकते हैं। हमारे नैदानिक ​​विशेषज्ञ समीक्षा करेंगे और 24 से 48 घंटों के भीतर आपके साथ वीडियो कॉल शेड्यूल करेंगे।"
+  }
+]

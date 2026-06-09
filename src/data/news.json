@@ -1,0 +1,41 @@
+[
+  {
+    "id": "news1",
+    "category": "Technology",
+    "category_hi": "प्रौद्योगिकी",
+    "date": "June 05, 2026",
+    "author": "Dr. Rajesh Verma",
+    "readTime": "5 Min Read",
+    "title": "AuraCare Adopts AI-Powered Robotic Knee Replacements",
+    "title_hi": "आभाकेयर ने एआई-संचालित रोबोटिक घुटने के प्रतिस्थापन को अपनाया",
+    "excerpt": "Discover how computerized robot arms improve surgical precision, reduce recovery time, and maximize prosthetic life.",
+    "excerpt_hi": "जानिए कैसे कम्प्यूटरीकृत रोबोटिक आर्म्स सर्जिकल सटीकता में सुधार करते हैं, ठीक होने का समय घटाते हैं और कृत्रिम अंग के जीवन को बढ़ाते हैं।",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "news2",
+    "category": "Cardiac Wellness",
+    "category_hi": "हृदय कल्याण",
+    "date": "May 28, 2026",
+    "author": "Dr. Arvind Sharma",
+    "readTime": "4 Min Read",
+    "title": "Preventive Cardiology: 5 Habits to Prevent Coronary Blocks",
+    "title_hi": "निवारक कार्डियोलॉजी: कोरोनरी ब्लॉकेज को रोकने की 5 आदतें",
+    "excerpt": "Simple modifications in clean eating, metabolic tracking, and active mobility that safeguard your cardiovascular health.",
+    "excerpt_hi": "स्वच्छ आहार, चयापचय (मेटाबॉलिक) ट्रैकिंग और सक्रिय गतिशीलता में सरल बदलाव जो आपके हृदय स्वास्थ्य की रक्षा करते हैं।",
+    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "news3",
+    "category": "Pediatrics",
+    "category_hi": "बाल रोग चिकित्सा",
+    "date": "May 15, 2026",
+    "author": "Dr. Priya Patel",
+    "readTime": "6 Min Read",
+    "title": "Nurturing Newborns: Overcoming Respiratory Struggles",
+    "title_hi": "नवजात शिशुओं का पोषण: सांस की तकलीफों पर काबू पाना",
+    "excerpt": "A parent's comprehensive medical handbook on managing childhood allergies, breathing difficulty signs, and clinical nebulization.",
+    "excerpt_hi": "बचपन की एलर्जी, सांस लेने में तकलीफ के लक्षणों और चिकित्सीय नेबुलाइजेशन के प्रबंधन पर माता-पिता की व्यापक पुस्तिका।",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=600&id=n"
+  }
+]

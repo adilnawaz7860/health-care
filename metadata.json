@@ -1,0 +1,6 @@
+{
+  "name": "AuraCare Hospital",
+  "description": "A modern, premium digital platform for AuraCare Multi-Specialty Hospital & Clinics, featuring full bilingual support (English/Hindi), advanced doctor booking search, and interactive services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

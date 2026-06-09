@@ -1,0 +1,66 @@
+[
+  {
+    "id": "g1",
+    "category": "Facilities",
+    "category_hi": "सुविधाएं",
+    "title": "State-of-the-art ICU Ward",
+    "title_hi": "अत्याधुनिक आईसीयू वार्ड",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "g2",
+    "category": "Doctors",
+    "category_hi": "डॉक्युमेंटरी (डॉक्टर)",
+    "title": "Heart Valve Surgical Panel",
+    "title_hi": "हृदय वाल्व सर्जिकल पैनल",
+    "image": "https://images.unsplash.com/photo-1579684389782-64d84b5e901a?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "g3",
+    "category": "Facilities",
+    "category_hi": "सुविधाएं",
+    "title": "Advanced Silent MRI Suite",
+    "title_hi": "उन्नत मूक एमआरआई सुइट",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=600&id=mri"
+  },
+  {
+    "id": "g4",
+    "category": "Events",
+    "category_hi": "कार्यक्रम",
+    "title": "Global Wellness Health Camp",
+    "title_hi": "वैश्विक कल्याण स्वास्थ्य शिविर",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "g5",
+    "category": "Facilities",
+    "category_hi": "सुविधाएं",
+    "title": "Ultra-Clean Operation Theatre",
+    "title_hi": "अल्ट्रा-क्लीन ऑपरेशन थिएटर",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "g6",
+    "category": "Events",
+    "category_hi": "कार्यक्रम",
+    "title": "Annual Medical Research Summit",
+    "title_hi": "वार्षिक चिकित्सा अनुसंधान शिखर सम्मेलन",
+    "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "g7",
+    "category": "Doctors",
+    "category_hi": "डॉक्टर",
+    "title": "Cardiologists Diagnostic Review",
+    "title_hi": "कार्डियोलॉजिस्ट नैदानिक समीक्षा",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": "g8",
+    "category": "Facilities",
+    "category_hi": "सुविधाएं",
+    "title": "Premium Outpatient Lounge",
+    "title_hi": "प्रीमियम आउटपेशेंट लाउंज",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=600"
+  }
+]

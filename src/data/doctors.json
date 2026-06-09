@@ -1,0 +1,162 @@
+[
+  {
+    "id": "doc1",
+    "name": "Dr. Arvind Sharma",
+    "name_hi": "डॉ. अरविंद शर्मा",
+    "role": "Senior Consultant Cardiology",
+    "role_hi": "वरिष्ठ हृदय रोग विशेषज्ञ",
+    "qualification": "MD, DM (Cardiology) - AIIMS",
+    "qualification_hi": "एमडी, डीएम (कार्डियोलॉजी) - एम्स",
+    "department": "Cardiology",
+    "department_hi": "हृदय रोग विभाग",
+    "experience": "18+ Years",
+    "experience_hi": "18+ वर्ष",
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=500",
+    "rating": 4.9,
+    "social": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "email": "dr.arvind@auracare.com"
+    }
+  },
+  {
+    "id": "doc2",
+    "name": "Dr. Sarah D'Souza",
+    "name_hi": "डॉ. सारा डिसूजा",
+    "role": "Head of Neurology",
+    "role_hi": "न्यूरोलॉजी विभाग की प्रमुख",
+    "qualification": "MD, PhD (Neurology) - Harvard",
+    "qualification_hi": "एमडी, पीएचडी (न्यूरोलॉजी) - हार्वर्ड",
+    "department": "Neurology",
+    "department_hi": "न्यूरोलॉजी विभाग",
+    "experience": "15 Years",
+    "experience_hi": "15 वर्ष",
+    "image": "https://images.unsplash.com/photo-1594824813573-246434de83fb?auto=format&fit=crop&q=80&w=500",
+    "rating": 4.8,
+    "social": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "email": "dr.sarah@auracare.com"
+    }
+  },
+  {
+    "id": "doc3",
+    "name": "Dr. Rajesh Verma",
+    "name_hi": "डॉ. राजेश वर्मा",
+    "role": "Director Orthopedics & Joint Replacement",
+    "role_hi": "निदेशक - ऑर्थोपेडिक्स",
+    "qualification": "MS (Ortho), MCh (Ortho) - UK",
+    "qualification_hi": "एमएस (ऑर्थो), एमसीएच (ऑर्थो) - यूके",
+    "department": "Orthopedics",
+    "department_hi": "अस्थि रोग विभाग",
+    "experience": "22 Years",
+    "experience_hi": "22 वर्ष",
+    "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=500",
+    "rating": 4.9,
+    "social": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "email": "dr.rajesh@auracare.com"
+    }
+  },
+  {
+    "id": "doc4",
+    "name": "Dr. Priya Patel",
+    "name_hi": "डॉ. प्रिया पटेल",
+    "role": "Senior Consultant Pediatrics",
+    "role_hi": "वरिष्ठ बाल रोग विशेषज्ञ",
+    "qualification": "MD (Pediatrics), Fellow Neonatologist",
+    "qualification_hi": "एमडी (बाल रोग), फेलो नवजात शिशु रोग विशेषज्ञ",
+    "department": "Pediatrics",
+    "department_hi": "बाल रोग विभाग",
+    "experience": "12 Years",
+    "experience_hi": "12 वर्ष",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=500",
+    "rating": 4.7,
+    "social": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "email": "dr.priya@auracare.com"
+    }
+  },
+  {
+    "id": "doc5",
+    "name": "Dr. Amit Malhotra",
+    "name_hi": "डॉ. अमित मल्होत्रा",
+    "role": "Senior Gynecologist & IVF Expert",
+    "role_hi": "वरिष्ठ स्त्री रोग और आईवीएफ विशेषज्ञ",
+    "qualification": "MD (Obstetrics & Gynecology)",
+    "qualification_hi": "एमडी (प्रसूति एवं स्त्री रोग)",
+    "department": "Gynecology",
+    "department_hi": "स्त्री रोग विभाग",
+    "experience": "16 Years",
+    "experience_hi": "16 वर्ष",
+    "image": "https://images.unsplash.com/photo-1591604021695-0c69b7c05981?auto=format&fit=crop&q=80&w=500",
+    "rating": 4.9,
+    "social": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "email": "dr.amit@auracare.com"
+    }
+  },
+  {
+    "id": "doc6",
+    "name": "Dr. Sneha Roy",
+    "name_hi": "डॉ. स्नेहा रॉय",
+    "role": "Clinical Director Dentistry",
+    "role_hi": "क्लिनिकल निदेशक - दंत चिकित्सा",
+    "qualification": "BDS, MDS (Orthodontics)",
+    "qualification_hi": "बीडीएस, एमडीएस (ऑर्थोडॉन्टिक्स)",
+    "department": "Dentistry",
+    "department_hi": "दंत चिकित्सा विभाग",
+    "experience": "10 Years",
+    "experience_hi": "10 वर्ष",
+    "image": "https://images.unsplash.com/photo-1607990283143-e81e7a2c93ab?auto=format&fit=crop&q=80&w=500",
+    "rating": 4.8,
+    "social": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "email": "dr.sneha@auracare.com"
+    }
+  },
+  {
+    "id": "doc7",
+    "name": "Dr. Vivek Mehra",
+    "name_hi": "डॉ. विवेक मेहरा",
+    "role": "Chief Consultant Dermatology",
+    "role_hi": "मुख्य त्वचा रोग विशेषज्ञ",
+    "qualification": "MD (Dermatology, Venereology & Leprosy)",
+    "qualification_hi": "एमडी (त्वचा विज्ञान और लेप्रोसी)",
+    "department": "Dermatology",
+    "department_hi": "त्वचा रोग विभाग",
+    "experience": "14 Years",
+    "experience_hi": "14 वर्ष",
+    "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=500",
+    "rating": 4.7,
+    "social": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "email": "dr.vivek@auracare.com"
+    }
+  },
+  {
+    "id": "doc8",
+    "name": "Dr. Meera Iyer",
+    "name_hi": "डॉ. मीरा अय्यर",
+    "role": "HOD General Medicine",
+    "role_hi": "विभागाध्यक्ष - सामान्य चिकित्सा",
+    "qualification": "MD (General Medicine) - JIPMER",
+    "qualification_hi": "एमडी (सामान्य चिकित्सा) - जिपमेर",
+    "department": "General Medicine",
+    "department_hi": "सामान्य चिकित्सा विभाग",
+    "experience": "20 Years",
+    "experience_hi": "20 वर्ष",
+    "image": "https://images.unsplash.com/photo-1594824813573-246434de83fb?auto=format&fit=crop&q=80&w=500&id=mirror",
+    "rating": 4.9,
+    "social": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "email": "dr.meera@auracare.com"
+    }
+  }
+]

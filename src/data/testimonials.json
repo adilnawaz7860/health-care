@@ -1,0 +1,38 @@
+[
+  {
+    "id": "t1",
+    "name": "Ramesh Kumar",
+    "name_hi": "रमेश कुमार",
+    "rating": 5,
+    "review": "The cardiology team here is stellar. Dr. Arvind Sharma explained the entire procedure before my father's angiography. Totally clean wards and respectful nurses.",
+    "review_hi": "यहां की कार्डियोलॉजी टीम बेहतरीन है। डॉ. अरविंद शर्मा ने मेरे पिता की एंजियोग्राफी से पहले पूरी प्रक्रिया समझाई। बिलकुल साफ वार्ड और सम्मानजनक व्यवहार करने वाली नर्सें।",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150"
+  },
+  {
+    "id": "t2",
+    "name": "Ananya Sen-Gupta",
+    "name_hi": "अनन्या सेन-गुप्ता",
+    "rating": 5,
+    "review": "High level of expertise! Dr. Sarah's treatment for my chronic epilepsy showed immediate improvement. Very premium facilities, it felt like a star resort.",
+    "review_hi": "उच्च स्तर की विशेषज्ञता! पुरानी मिर्गी के लिए डॉ. सारा के इलाज ने तत्काल सुधार दिखाया। बहुत प्रीमियम सुविधाएं, यह एक स्टार रिसॉर्ट की तरह महसूस हुआ।",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150"
+  },
+  {
+    "id": "t3",
+    "name": "Vikram Singh",
+    "name_hi": "विक्रम सिंह",
+    "rating": 4.8,
+    "review": "My knee joint replacement therapy was incredibly smooth. Dr. Rajesh is phenomenal, and the physical rehabilitation clinic got me walking pain-free in weeks.",
+    "review_hi": "मेरे घुटने की जोड़ प्रत्यारोपण चिकित्सा अविश्वसनीय रूप से सुचारू थी। डॉ. राजेश अद्भुत हैं, और भौतिक पुनर्वास क्लिनिक ने मुझे हफ्तों में दर्द रहित चलने लायक बना दिया।",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150"
+  },
+  {
+    "id": "t4",
+    "name": "Meenakshi Patel",
+    "name_hi": "मीनाक्षी पटेल",
+    "rating": 5,
+    "review": "Outstanding care for our newborn. The pediatric ICU team went above and beyond when our baby had respiratory complications. Highly recommend AuraCare.",
+    "review_hi": "हमारे नवजात शिशु की उत्कृष्ट देखभाल। जब हमारे बच्चे को सांस की गंभीर समस्या थी, तब बाल चिकित्सा आईसीयू टीम ने उम्मीद से बढ़कर काम किया। आभाकेयर की अत्यधिक अनुशंसा करती हूँ।",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=150"
+  }
+]

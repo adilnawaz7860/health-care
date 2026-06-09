@@ -1,0 +1,204 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "gallery": "Gallery",
+    "news": "News",
+    "contact": "Contact Us",
+    "book_btn": "Book Appointment"
+  },
+  "hero": {
+    "banner_badge": "🏆 Healthcare Excellence For You",
+    "title": "A Beacon of Professional Healthcare Integrity",
+    "subtitle": "Providing premium medical expertise coupled with warm hospitality, cutting-edge diagnostic automation, and trusted surgical operations.",
+    "cta_book": "Book Appointment",
+    "cta_contact": "Contact Us"
+  },
+  "stats": {
+    "exp": "Years of Experience",
+    "doctors": "Specialist Doctors",
+    "patients": "Patients Served",
+    "emergency": "24/7 Emergency Beds"
+  },
+  "why_choose": {
+    "title": "Why Elite Families Trust AuraCare",
+    "subtitle": "Discover how we blend compassionate healthcare with award-winning technical clinical precision.",
+    "c1_title": "Experienced Specialists",
+    "c1_desc": "More than 100 seasoned medical guides trained in elite global institutes here to treat you.",
+    "c2_title": "Modern Technology",
+    "c2_desc": "Continuous upgrade of silent MRI machines, digital CT diagnostics, and robotic microsurgery.",
+    "c3_title": "Affordable Treatment",
+    "c3_desc": "Highly affordable surgical pathways operating transparently with all major cashless insurers.",
+    "c4_title": "Emergency Support",
+    "c4_desc": "A dedicated triage hub and rapid advance-life system ambulances on standby. Always ready.",
+    "c5_title": "Personalized Care",
+    "c5_desc": "Every single patient is monitored by dedicated coordinators from pre-admission to discharge.",
+    "c6_title": "Trusted Healthcare",
+    "c6_desc": "Accredited globally with multiple clinical awards celebrating surgical safety and outcomes."
+  },
+  "specialists": {
+    "title": "Our Specialized Medical Staff",
+    "subtitle": "Meet our highly trained and decorated consultant physicians leading our clinical modules.",
+    "exp_lbl": "Experience",
+    "dept_lbl": "Department",
+    "qual_lbl": "Qualification",
+    "search_placeholder": "Search doctors by name or department...",
+    "no_results": "No medical doctors matched your search criteria.",
+    "appointment_btn": "Book Consult"
+  },
+  "departments": {
+    "title": "Clinical Portfolios & Treatments",
+    "subtitle": "Multi-specialty primary, secondary, and tertiary programs tailored to your family's dynamic health needs."
+  },
+  "appointment_banner": {
+    "title": "Ready to Start Your Optimal Health Journey?",
+    "subtitle": "Experience elite personal hospitality. Coordinate with our front desk or instantly schedule your medical assessment consultation online today.",
+    "book_now_btn": "Generate Appointment"
+  },
+  "testimonials": {
+    "title": "Patient Care Success Stories",
+    "subtitle": "Hear directly from grateful families who experienced safe, high-quality, and empathetic healing."
+  },
+  "facilities": {
+    "title": "World-Class Hospital Infrastructure",
+    "subtitle": "Take a virtual walkthrough of our sterile operating environments and recovery suites.",
+    "f1_title": "Intensive Care Unit (ICU)",
+    "f1_desc": "Continuous high-fidelity hemodynamic monitoring systems and 1:1 dedicated nursing channels.",
+    "f2_title": "24/7 Emergency Ward",
+    "f2_desc": "Fully armed triage rooms prepared for hyper-acute trauma, cardiac blocks, or stroke recovery.",
+    "f3_title": "Diagnostics & Lab",
+    "f3_desc": "NABL accredited clinical microbiology, pathology scans, and immediate digital diagnostic results.",
+    "f4_title": "Internal Pharmacy",
+    "f4_desc": "Always stocked clinical formulary offering guaranteed genuine medications with computerized checks.",
+    "f5_title": "Operation Theatre (OT)",
+    "f5_desc": "Class 100 laminar flow air systems supporting zero-infection risks during orthopedic orthoplasties.",
+    "f6_title": "Ambulance fleet",
+    "f6_desc": "Equipped with mobile ventilator assistance, emergency telemetry, and cardiac support devices."
+  },
+  "gallery_page": {
+    "title": "A Visual Tour of AuraCare",
+    "subtitle": "See our high-end clinical setups, operating panels, community initiatives, and expert staff.",
+    "all": "All Photos",
+    "doctors": "Doctors Team",
+    "facilities": "Facilities & Wards",
+    "events": "Events & Seminars",
+    "video_title": "Interactive Walkthrough Highlights",
+    "video_subtitle": "Watch video testimonials, research updates, and facilities showcase."
+  },
+  "partners": {
+    "title": "Our Accredited Cashless Insurers"
+  },
+  "news_p": {
+    "title": "Clinical Publications & Health News",
+    "subtitle": "Stay informed with professional advisory reviews authored directly by our medical panel.",
+    "read_more": "Read Full Article →"
+  },
+  "faq_p": {
+    "title": "Common Inquiries & Answers",
+    "subtitle": "Clear and constructive details regarding scheduling, out-of-province insurance, and emergency triage operations."
+  },
+  "emergency_p": {
+    "badge": "🚨 24/7 ULTRA-ACUTE EMERGENCY SYSTEM",
+    "title": "Under Serious Critical Stress? Contact Our Ambulance Team Now!",
+    "call_now": "Direct hotline: +1 (800) 555-0199"
+  },
+  "get_touch": {
+    "title": "Get In Touch",
+    "subtitle": "Connect directly with our corporate wing, customer liaison desk, or general queries team.",
+    "address_lbl": "Mailing Address",
+    "email_lbl": "Clinical Email",
+    "phone_lbl": "Support Hotline",
+    "hours_lbl": "Visiting Hours",
+    "hours_val": "24/7 emergency care. Outpatient visits: Mon-Sat, 8:00 AM - 8:00 PM",
+    "form_name": "Your name",
+    "form_email": "Your email address",
+    "form_phone": "Mobile number",
+    "form_subject": "Subject of Inquiry",
+    "form_msg": "Your Message",
+    "send_btn": "Send message secure",
+    "success_msg": "Thank you! Your message has been safely received. A patient coordinator will contact you shortly."
+  },
+  "booking_modal": {
+    "title": "Schedule a Medical Consult",
+    "sub": "Choose your desired medical portfolio and staff to schedule an outpatient evaluation.",
+    "label_name": "Full Patient Name",
+    "label_phone": "Active Mobile Number",
+    "label_email": "Email Address",
+    "label_dept": "Medical Department",
+    "label_doc": "Consulting Doctor",
+    "label_date": "Desired Date",
+    "label_time": "Preferred Time Slot",
+    "label_notes": "Clinical notes or major symptoms",
+    "submit_btn": "Confirm Booking & Notify Doctor",
+    "cancel_btn": "Cancel",
+    "success_header": "Appointment Registered Successfully!",
+    "success_desc": "Your booking coordinate ID is AP-938210. A SMS confirmation and email receipt have been dispatched.",
+    "fields_required": "Please complete all mandatory parameters.",
+    "phone_err": "Please specify a genuine 10-digit mobile number."
+  },
+  "services_page": {
+    "title": "Comprehensive Healthcare Specialties",
+    "subtitle": "Discover our full cohort of sixteen clinical specialties and advanced recovery centers.",
+    "all_lbl": "All Specialties",
+    "learn_more": "Examine details",
+    "search_placeholder": "Find medical specialty...",
+    "benefits_header": "Exclusive benefits of care",
+    "procedure_header": "Procedures performed",
+    "doctor_card_lbl": "An appointment booking here routes to",
+    "cta_btn": "Book specialty appointment"
+  },
+  "about_page": {
+    "title": "About AuraCare Hospital",
+    "subtitle": "Two decades of surgical precision, academic training, and patient-first healthcare values.",
+    "story_heading": "Our Story",
+    "story_p": "Founded in 2001, AuraCare started as a small cardiac clinic with a single dream: to elevate local surgery quality standards to global norms. Over 25 years, our research investments, clinical breakthroughs, and public health campaigns have expanded us into a 500-bed multi-specialty regional hub.",
+    "mission_title": "Our Noble Mission",
+    "mission_desc": "To offer safe, high-efficacy, and technologically integrated care to patients of all socio-economic profiles under strict ethical frameworks.",
+    "vision_title": "Our Inspiring Vision",
+    "vision_desc": "To be recognized globally as the absolute benchmark in personalized patient rehabilitation, scientific teaching, and compassionate care.",
+    "values_title": "Our Uncompromised Core Values",
+    "v1_title": "Efficacy First",
+    "v1_desc": "Clinical decisions are driven entirely by proven evidence-based medical research.",
+    "v2_title": "Absolute Integrity",
+    "v2_desc": "Transparent pricing structure with absolutely no over-diagnoses or hidden markups.",
+    "v3_title": "Constant Innovation",
+    "v3_desc": "We keep abreast of cutting-edge research, adapting surgical automation and robotic aids.",
+    "v4_title": "Empathy in Healing",
+    "v4_desc": "We preserve patient dignity with soft-spoken hospitality and dedicated family support rooms.",
+    "leadership_title": "Administrative & Clinical Leadership",
+    "timeline_title": "Our Journey through Chronology",
+    "timeline_e1_year": "2001",
+    "timeline_e1_title": "The Foundation Stones",
+    "timeline_e1_desc": "Inaugurated as an outpatient specialty cardiology clinic with 10 diagnostic beds.",
+    "timeline_e2_year": "2008",
+    "timeline_e2_title": "First Multi-Specialty Expansion",
+    "timeline_e2_desc": "Constructed our flagship 5-story medical wing adding Neurology and advanced Orthoplasties.",
+    "timeline_e3_year": "2016",
+    "timeline_e3_title": "Robotic Surgery Breakthroughs",
+    "timeline_e3_desc": "Pioneered computerized robotic-assistant knee surgeries and minimal incision bypass options.",
+    "timeline_e4_year": "2026",
+    "timeline_e4_title": "AI Diagnostics Integration",
+    "timeline_e4_desc": "Configured cloud-assisted digital neural networks detecting acute strokes 3x faster in MRI scans.",
+    "impact_title": "Generous Community Health Support",
+    "impact_desc": "We believe healthcare is a basic human right. Every quarter, our mobile health units travel to rural sites, providing free screenings, diabetic therapeutics, and maternal checkups."
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "footer": {
+    "about_title": "About AuraCare",
+    "desc": "AuraCare Multi-Specialty Hospital and Clinics is a global award-winning medical hub delivering clinical excellence, modern robotic surgery, and personalized recovery modules.",
+    "quick_links": "Quick Exploration",
+    "services": "Primary Portfolios",
+    "contact": "Support Details",
+    "emergency_num": "+1 (800) 555-0199",
+    "newsletter": "Secure Clinical News",
+    "newsletter_sub": "Register your email to receive clinical research articles and wellness updates from our senior panel.",
+    "newsletter_btn": "Subscribe secure",
+    "newsletter_success": "Email registered successfully!",
+    "emergency_callout": "Emergency Core lines active 24/7/365",
+    "copyright": "© 2026 AuraCare Multi-Specialty Hospital & Research Institute. All intellectual parameters preserved. Safe, high-efficacy health solutions."
+  }
+}

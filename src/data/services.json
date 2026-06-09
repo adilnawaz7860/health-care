@@ -1,0 +1,338 @@
+[
+  {
+    "id": "cardiology",
+    "icon": "Heart",
+    "name": "Cardiology",
+    "name_hi": "हृदय रोग विभाग (कार्डियोलॉजी)",
+    "desc": "Global standards in heart healthcare, preventive cardiology, angioplasty, and bypass surgeries.",
+    "desc_hi": "हृदय स्वास्थ्य देखभाल, निवारक कार्डियोलॉजी, एंजियोप्लास्टी और बाईपास सर्जरी में वैश्विक मानक।",
+    "benefits": [
+      "24/7 dedicated Cardiac CAT Lab",
+      "Highly experienced cardiothoracic surgeons",
+      "Advanced non-invasive cardiac testing"
+    ],
+    "benefits_hi": [
+      "24/7 समर्पित कार्डिएक कैट लैब",
+      "अत्यधिक अनुभवी कार्डियोथोरेसिक सर्जन",
+      "उन्नत गैर-आक्रामक हृदय परीक्षण"
+    ],
+    "procedure": "Includes ECG, Echo, TMT, Coronary Angiography, and minimally invasive cardiac solutions.",
+    "procedure_hi": "इसमें ईसीजी, इको, टीएमटी, कोरोनरी एंजियोग्राफी और न्यूनतम आक्रामक कार्डियक समाधान शामिल हैं।",
+    "specialistId": "doc1"
+  },
+  {
+    "id": "neurology",
+    "icon": "Brain",
+    "name": "Neurology",
+    "name_hi": "न्यूरोलॉजी (तंत्रिका विज्ञान)",
+    "desc": "Comprehensive evaluation and treatment for complex neurological conditions, stroke, and sleep disorders.",
+    "desc_hi": "जटिल न्यूरोलॉजिकल स्थितियों, स्ट्रोक और नींद के विकारों के लिए व्यापक मूल्यांकन और उपचार।",
+    "benefits": [
+      "State-of-the-art EEG & EMG machines",
+      "Comprehensive Stroke Management unit",
+      "Specialized epilepsy clinics"
+    ],
+    "benefits_hi": [
+      "अत्याधुनिक ईईजी और ईएमजी मशीनें",
+      "व्यापक स्ट्रोक प्रबंधन इकाई",
+      "विशेषीकृत मिर्गी क्लीनिक"
+    ],
+    "procedure": "Brain mapping, spine surgery, stroke intervention, and neuromuscular testing.",
+    "procedure_hi": "ब्रेन मैपिंग, स्पाइन सर्जरी, स्ट्रोक उपचार और न्यूरोमस्कुलर परीक्षण।",
+    "specialistId": "doc2"
+  },
+  {
+    "id": "orthopedics",
+    "icon": "Bone",
+    "name": "Orthopedics",
+    "name_hi": "अस्थि रोग विभाग (ऑर्थोपेडिक्स)",
+    "desc": "Elite bone care, advanced joint replacements, sports medicine, and reconstructive surgeries.",
+    "desc_hi": "अभिजात वर्ग के हड्डियों की देखभाल, उन्नत संयुक्त प्रतिस्थापन, खेल चिकित्सा, और पुनर्निर्माण सर्जरी।",
+    "benefits": [
+      "Minimally invasive joint reconstructions",
+      "Robotic-assisted orthopedic surgeries",
+      "Comprehensive rehabilitation support"
+    ],
+    "benefits_hi": [
+      "न्यूनतम आक्रामक जोड़ पुनर्निर्माण",
+      "रोबोटिक-सहायता प्राप्त आर्थोपेडिक सर्जरी",
+      "व्यापक पुनर्वास सहायता"
+    ],
+    "procedure": "Total knee and hip replacement, arthroscopic surgery, and trauma care management.",
+    "procedure_hi": "कुल घुटने और कूल्हे का प्रतिस्थापन, आर्थोस्कोपिक सर्जरी और ट्रॉमा केयर प्रबंधन।",
+    "specialistId": "doc3"
+  },
+  {
+    "id": "pediatrics",
+    "icon": "Baby",
+    "name": "Pediatrics",
+    "name_hi": "बाल रोग विभाग (पीडियाट्रिक्स)",
+    "desc": "Passionate healthcare for infants, toddlers, and adolescents by experienced pediatric experts.",
+    "desc_hi": "अनुभवी बाल रोग विशेषज्ञों द्वारा शिशुओं, बच्चों और किशोरों के लिए करुणामयी स्वास्थ्य सेवा।",
+    "benefits": [
+      "Advanced NICU and PICU setups",
+      "Child-friendly hospital environment",
+      "Routine developmental assessments"
+    ],
+    "benefits_hi": [
+      "उन्नत एनआईसीयू और पीआईसीयू सेटअप",
+      "बच्चों के अनुकूल अस्पताल का वातावरण",
+      "नियमित विकासात्मक मूल्यांकन"
+    ],
+    "procedure": "Immunizations, pediatric intensive care, growth monitoring, and pediatric surgery.",
+    "procedure_hi": "टीकाकरण, बाल चिकित्सा गहन देखभाल, विकास की निगरानी और बाल चिकित्सा सर्जरी।",
+    "specialistId": "doc4"
+  },
+  {
+    "id": "gynecology",
+    "icon": "User",
+    "name": "Gynecology",
+    "name_hi": "स्त्री एवं प्रसूति रोग विभाग",
+    "desc": "Exceptional women's health care encompassing maternity, high-risk pregnancy, and advanced IVF.",
+    "desc_hi": "मातृत्व, उच्च जोखिम वाले गर्भधारण और उन्नत आईवीएफ सहित असाधारण महिला स्वास्थ्य देखभाल।",
+    "benefits": [
+      "Premium, comfortable LDRP suites",
+      "Advanced fertility & IVF laboratory",
+      "Painless delivery alternatives"
+    ],
+    "benefits_hi": [
+      "प्रीमियम, आरामदायक एलडीआरपी सुइट्स",
+      "उन्नत प्रजनन और आईवीएफ प्रयोगशाला",
+      "दर्द रहित प्रसव के विकल्प"
+    ],
+    "procedure": "Antenatal programs, laparoscopic gynecological therapy, and customizable birthing layouts.",
+    "procedure_hi": "प्रसवपूर्व कार्यक्रम, लेप्रोस्कोपिक स्त्री रोग उपचार, और प्रसव व्यवस्थाएं।",
+    "specialistId": "doc5"
+  },
+  {
+    "id": "dentistry",
+    "icon": "Smile",
+    "name": "Dentistry",
+    "name_hi": "दंत चिकित्सा विभाग",
+    "desc": "Complete oral hygiene, restorative dentistry, dental implants, and cosmetic smile designs.",
+    "desc_hi": "पूर्ण मौखिक स्वच्छता, रिस्टोरेटिव दंत चिकित्सा, दंत प्रत्यारोपण, और कॉस्मेटिक स्माइल डिजाइन।",
+    "benefits": [
+      "High-precision digital oral scanners",
+      "Completely pain-free root canal treatment",
+      "Orthodontics for children and adults"
+    ],
+    "benefits_hi": [
+      "उच्च-सटीक डिजिटल ओरल स्कैनर",
+      "पूरी तरह से दर्द रहित रूट कैनाल उपचार",
+      "बच्चों और वयस्कों के लिए ऑर्थोडॉन्टिक्स"
+    ],
+    "procedure": "Dental implants, crown fittings, laser dental treatments, and custom dental bonding.",
+    "procedure_hi": "दंत प्रत्यारोपण, क्राउन फिटिंग, लेजर दंत उपचार और कस्टम दंत बॉन्डिंग।",
+    "specialistId": "doc6"
+  },
+  {
+    "id": "dermatology",
+    "icon": "Sparkles",
+    "name": "Dermatology",
+    "name_hi": "त्वचा रोग विभाग (डर्मेटोलॉजी)",
+    "desc": "Expert clinical dermatological solutions, laser treatments, allergy management, and aesthetics.",
+    "desc_hi": "विशेषज्ञ नैदानिक त्वचा रोग समाधान, लेजर उपचार, एलर्जी प्रबंधन और सौंदर्यशास्त्र।",
+    "benefits": [
+      "Approved clinical cosmetic lasers",
+      "In-depth patch tests for skin allergy",
+      "Personalized skin health schedules"
+    ],
+    "benefits_hi": [
+      "स्वीकृत नैदानिक कॉस्मेटिक लेजर",
+      "त्वचा एलर्जी के लिए गहन पैच परीक्षण",
+      "व्यक्तिगत त्वचा स्वास्थ्य योजनाएं"
+    ],
+    "procedure": "Laser resculpting, chemical peeling, clinical acne treatments, and biopsy analysis.",
+    "procedure_hi": "लेजर रिस्कल्पटिंग, रासायनिक पीलिंग, नैदानिक मुँहासे के उपचार और बायोप्सी विश्लेषण।",
+    "specialistId": "doc7"
+  },
+  {
+    "id": "general-medicine",
+    "icon": "Stethoscope",
+    "name": "General Medicine",
+    "name_hi": "सामान्य चिकित्सा विभाग (जनरल मेडिसिन)",
+    "desc": "Primary diagnoses, customized lifestyle planning, corporate wellness, and chronic disease healing.",
+    "desc_hi": "प्राथमिक निदान, अनुकूलित जीवन शैली योजना, कॉपोरेट स्वास्थ्य और क्रोनिक बीमारी का उपचार।",
+    "benefits": [
+      "Experienced outpatient and inpatient panels",
+      "Annual preventative healthcare checkups",
+      "Chronic hypertension/diabetes management"
+    ],
+    "benefits_hi": [
+      "अनुभवी आउटपेशेंट और इनपेशेंट पैनल",
+      "वार्षिक निवारक स्वास्थ्य जांच",
+      "क्रोनिक हाइपरटेंशन/मधुमेह प्रबंधन"
+    ],
+    "procedure": "Comprehensive clinical assessments, laboratory test scans, and regular health followups.",
+    "procedure_hi": "व्यापक नैदानिक मूल्यांकन, प्रयोगशाला परीक्षण स्कैन और नियमित स्वास्थ्य फॉलो-अप।",
+    "specialistId": "doc8"
+  },
+  {
+    "id": "emergency-care",
+    "icon": "ShieldAlert",
+    "name": "Emergency Care",
+    "name_hi": "आपातकालीन देखभाल (इमरजेंसी केयर)",
+    "desc": "Immediate life-saving interventions and rapid response trauma services operating 24 hours a day.",
+    "desc_hi": "तत्काल जीवन रक्षक हस्तक्षेप और रैपिड रेस्पॉन्स ट्रॉमा सेवाएं २४ घंटे संचालित।",
+    "benefits": [
+      "Trained Advanced Trauma Life Support crew",
+      "Instant ICU linkage and bypass systems",
+      "A fleet of advanced life-support ambulances"
+    ],
+    "benefits_hi": [
+      "प्रशिक्षित उन्नत ट्रॉमा लाइफ सपोर्ट क्रू",
+      "त्वरित आईसीयू लिंकेज और बाईपास सिस्टम",
+      "उन्नत जीवन रक्षक एम्बुलेंस बेड़ा"
+    ],
+    "procedure": "Triage evaluation, emergency resuscitations, and urgent critical care monitoring.",
+    "procedure_hi": "ट्राइएज मूल्यांकन, आपातकालीन पुनर्जीवन, और त्वरित महत्वपूर्ण देखभाल निगरानी।",
+    "specialistId": "doc1"
+  },
+  {
+    "id": "radiology",
+    "icon": "Scan",
+    "name": "Radiology",
+    "name_hi": "रेडियोलॉजी (विकिरण विज्ञान)",
+    "desc": "High-fidelity diagnostic imaging using modern MRI, CT scan, and advanced digital X-Rays.",
+    "desc_hi": "आधुनिक एमआरआई, सीटी स्कैन और उन्नत डिजिटल एक्स-रे का उपयोग करके निदान इमेजिंग।",
+    "benefits": [
+      "High-speed, comfortable Silent MRI scans",
+      "Ultra-low radiation dose CT systems",
+      "Same-day high-accuracy digital reports"
+    ],
+    "benefits_hi": [
+      "तेज गति, आरामदायक साइलेंट एमआरआई स्कैन",
+      "अल्ट्रा-लो रेडिएशन डोज़ सीटी सिस्टम",
+      "उसी दिन उच्च सटीकता वाली डिजिटल रिपोर्ट"
+    ],
+    "procedure": "Includes MRI scans, CT scans, digital mammography, and high-frequency ultrasound diagnostics.",
+    "procedure_hi": "इसमें एमआरआई स्कैन, सीटी स्कैन, डिजिटल मैमोग्राफी और उच्च आवृत्ति अल्ट्रासाउंड निदान शामिल हैं।",
+    "specialistId": "doc2"
+  },
+  {
+    "id": "gastroenterology",
+    "icon": "Activity",
+    "name": "Gastroenterology",
+    "name_hi": "गैस्ट्रोएंट्रोलॉजी (उदर रोग)",
+    "desc": "Specialized therapies for liver, stomach, gallbladder, and complex digestive system disorders.",
+    "desc_hi": "लिवर, पेट, पित्ताशय और जटिल पाचन तंत्र विकारों के लिए विशेष उपचार।",
+    "benefits": [
+      "Advanced therapeutic endoscopy systems",
+      "Highly skilled liver disease experts",
+      "Preventive colorectal screenings"
+    ],
+    "benefits_hi": [
+      "उन्नत चिकित्सीय एंडोस्कोपी सिस्टम",
+      "अत्यधिक कुशल लिवर रोग विशेषज्ञ",
+      "निवारक कोलोरेक्टल स्क्रीनिंग"
+    ],
+    "procedure": "Endoscopy, colonoscopy, ERCP, and digestive motility diagnostic services.",
+    "procedure_hi": "एंडोस्कोपी, कोलोनोस्कोपी, ईआरसीपी और पाचन गतिशीलता निदान सेवाएं।",
+    "specialistId": "doc8"
+  },
+  {
+    "id": "pulmonology",
+    "icon": "Wind",
+    "name": "Pulmonology",
+    "name_hi": "पल्मोनोलॉजी (फेफड़े के रोग)",
+    "desc": "Advanced respiratory therapies for asthma, COPD, sleep apnea, and complex lung infections.",
+    "desc_hi": "अस्थमा, सीओपीडी, स्लीप एपनिया और जटिल फेफड़ों के संक्रमण के लिए उन्नत श्वसन उपचार।",
+    "benefits": [
+      "Advanced Pulmonary Function Lab",
+      "Allergy assessment & allergy treatment",
+      "Specialized sleep study clinics"
+    ],
+    "benefits_hi": [
+      "उन्नत पल्मोनरी फंक्शन लैब",
+      "एलर्जी मूल्यांकन और एलर्जी उपचार",
+      "विशेष नींद अध्ययन क्लीनिक"
+    ],
+    "procedure": "Bronchoscopy, spirometry testing, sleep study monitoring, and lung biopsy services.",
+    "procedure_hi": "ब्रोंकोस्कोपी, स्पायरोमेट्री परीक्षण, स्लीप स्टडी मॉनिटरिंग और फेफड़ों की बायोप्सी सेवाएं।",
+    "specialistId": "doc2"
+  },
+  {
+    "id": "gynology-ent",
+    "icon": "Volume2",
+    "name": "ENT Specialist",
+    "name_hi": "ईएनटी (कान, नाक, गला)",
+    "desc": "Complete cure for ear, nose, throat, voice, and complex skull base balance conditions.",
+    "desc_hi": "कान, नाक, गले, आवाज और सिर के आधार संतुलन की जटिल स्थितियों का संपूर्ण उपचार।",
+    "benefits": [
+      "Microscopic & endoscopic surgeries",
+      "Advanced computer audiometrist suite",
+      "Allergy testing and throat clinics"
+    ],
+    "benefits_hi": [
+      "माइक्रोस्कोपिक और एंडोस्कोपिक सर्जरी",
+      "उन्नत कंप्यूटर ऑडियोमेट्रिस्ट सूट",
+      "एलर्जी परीक्षण और गला क्लीनिक"
+    ],
+    "procedure": "Myringotomy, sinus surgeries, tonsillectomy, and professional hearing aid fits.",
+    "procedure_hi": "मायरिंगोटॉमी, साइनस सर्जरी, टॉन्सिल्लेक्टोमी और व्यावसायिक श्रवण यंत्र फिटिंग।",
+    "specialistId": "doc3"
+  },
+  {
+    "id": "ophthalmology",
+    "icon": "Eye",
+    "name": "Ophthalmology",
+    "name_hi": "नेत्र रोग विभाग (ऑप्थल्मोलॉजी)",
+    "desc": "High-accuracy vision care, advanced cataract microsurgery, and laser corrective treatments.",
+    "desc_hi": "उच्च सटीकता दृष्टि देखभाल, उन्नत मोतियाबिंद माइक्रोसर्जरी और लेजर सुधारात्मक उपचार।",
+    "benefits": [
+      "Completely stitchless micro-cataract surgeries",
+      "Laser-assisted power correction (LASIK)",
+      "Vitreoretinal diagnostic technology"
+    ],
+    "benefits_hi": [
+      "पूरी तरह से टांकारहित सूक्ष्म मोतियाबिंद सर्जरी",
+      "लेजर-सहायता प्राप्त पावर सुधार (लसिक)",
+      "विट्रोरेटिनल डायग्नोस्टिक तकनीक"
+    ],
+    "procedure": "Phacoemulsification, glaucoma control therapies, eye testing, and dry eye care.",
+    "procedure_hi": "फेकोइमल्सीफिकेशन, ग्लूकोमा नियंत्रण उपचार, आंखों का परीक्षण और ड्राई ऑय केयर।",
+    "specialistId": "doc4"
+  },
+  {
+    "id": "oncology",
+    "icon": "Zap",
+    "name": "Oncology",
+    "name_hi": "कैंसर रोग विभाग (ऑन्कोलॉजी)",
+    "desc": "Integrated cancer care including hematological, radiation-based, and targeted chemotherapies.",
+    "desc_hi": "हेमेटोलॉजिकल, विकिरण-आधारित, और लक्षित कीमोथेरेपी सहित एकीकृत कैंसर देखभाल।",
+    "benefits": [
+      "Multi-speciality expert tumor board setup",
+      "Comfortable high-monitoring chemotherapy unit",
+      "High-precision radiation therapy accelerators"
+    ],
+    "benefits_hi": [
+      "मल्टी-स्पेशियलिटी एक्सपर्ट ट्यूमर बोर्ड सेटअप",
+      "आरामदायक उच्च-निगरानी कीमोथेरेपी इकाई",
+      "उच्च-सटीक विकिरण चिकित्सा त्वरक"
+    ],
+    "procedure": "Targeted clinical chemotherapies, tumor removals, immunotherapy, and palliative care.",
+    "procedure_hi": "लक्षित नैदानिक कीमोथेरेपी, ट्यूमर निकालना, इम्यूनोथेरेपी और उपशामक देखभाल।",
+    "specialistId": "doc5"
+  },
+  {
+    "id": "physiotherapy",
+    "icon": "Accessibility",
+    "name": "Physiotherapy",
+    "name_hi": "फिजियोथेरेपी (भौतिक चिकित्सा)",
+    "desc": "Holistic muscular, skeletal, neurological trauma rehabilitation, and pain diagnostics.",
+    "desc_hi": "समग्र मांसपेशियों, कंकाल, तंत्रिका संबंधी आघात पुनर्वास, और दर्द का निदान।",
+    "benefits": [
+      "Highly advanced hydrotherapy and muscle stimulators",
+      "Focused recovery paths for sports injuries",
+      "In-home physical therapy guides"
+    ],
+    "benefits_hi": [
+      "अत्यधिक उन्नत हाइड्रोथेरेपी और मांसपेशियों के उत्तेजक",
+      "खेल चोटों के लिए केंद्रित पुनर्प्राप्ति पथ",
+      "इन-होम फिजिकल थेरेपी गाइड"
+    ],
+    "procedure": "Manual muscle therapy, high-performance ultrasound heat healing, joint exercises.",
+    "procedure_hi": "मैनुअल मांसपेशी थेरेपी, उच्च प्रदर्शन अल्ट्रासाउंड हीट हीलिंग, संयुक्त व्यायाम।",
+    "specialistId": "doc3"
+  }
+]
